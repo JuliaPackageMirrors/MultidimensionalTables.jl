@@ -2,6 +2,8 @@ __precompile__()
 
 module MultidimensionalTables
 
+warn("The MultidimensionalTables.jl package is deprecated. Please use the new package DataCubes.jl instead.")
+
 # including files.
 include("common.jl")
 include("datatypes/ldict.jl")
