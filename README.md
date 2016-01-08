@@ -1,4 +1,4 @@
-**This package is deprecated. Please update your code to use DataCubes.jl instead.**
+**This package is deprecated. Please update your code to use [DataCubes.jl](https://github.com/c-s/DataCubes.jl) instead.**
 
 ```julia
 using DataCubes
